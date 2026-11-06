@@ -1,2 +1,2 @@
-# aws_agentcore
-Repo for my AWS Agentcore training
+# agentcore-training-java
+Repo for my AWS Agentcore training, built in java.
